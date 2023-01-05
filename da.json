@@ -4,5 +4,17 @@
   "artist": "",
   "author": "",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1672878476",
+      "groups": {
+        "": [
+          "https://i7.nhentai.net/galleries/1539163/3.jpg",
+          "https://i7.nhentai.net/galleries/1539163/3.jpg"
+        ]
+      }
+    }
+  }
 }
